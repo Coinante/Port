@@ -1,6 +1,11 @@
 {
-  "name": "personal-portfolio",
-  "version": "0.1.0",
+
+  "name": "port",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "main": "app.js",
+  "author": "Dami ",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -49,3 +54,6 @@
     ]
   }
 }
+
+
+
